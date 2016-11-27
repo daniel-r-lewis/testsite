@@ -1,2 +1,2 @@
 # testsite
-test of website
+this is a test of the hosted site
